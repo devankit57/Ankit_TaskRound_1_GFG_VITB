@@ -10,9 +10,9 @@ Welcome to the GeeksforGeeks VIT Bhopal Chapter Website! This repository contain
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+### Live : 
+<a href="https://devankit57.github.io/Ankit_TaskRound_1_GFG_VITB/">Click Here</a>
 
 ## About
 
@@ -38,4 +38,18 @@ Follow these steps to get a copy of the project up and running on your local mac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gfg-vit-bhopal-frontend.git
+   [git clone https://github.com/devankit57/Ankit_TaskRound_1_GFG_VITB.git]
+
+2.Open the index.html file in your web browser.
+
+### Usage
+
+Explore the different sections of the website:
+
+Visit the Home Page to learn about the GFG VIT Bhopal Chapter.
+Check out the Events section for event details.
+Access the Resources page for useful programming resources.
+Contact the GFG team via the Contact page.
+Feel free to modify the code to suit your needs or contribute to the project!
+
+
